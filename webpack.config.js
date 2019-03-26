@@ -20,10 +20,7 @@ module.exports={
                         presets:["@babel/preset-env"]
                     }
 
-                },
-                    {loader:'polymer-webpack-loader'}
-
-                    ]
+                }  ]
             },
             {
                 test:/\.css$/,
