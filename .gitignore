@@ -1,6 +1,7 @@
 HELP.md
 frontend/target/*
 **/target
+*package-lock.json
 **/node_modules
 !.mvn/wrapper/maven-wrapper.jar
 /node_modules/
