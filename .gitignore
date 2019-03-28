@@ -1,5 +1,6 @@
 HELP.md
 frontend/target/*
+frontend/src/main/resources/static/built/**
 **/target
 *package-lock.json
 **/node_modules
